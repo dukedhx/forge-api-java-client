@@ -51,6 +51,8 @@ public class ManifestChildren   {
     MANIFEST("manifest"),
 
     GEOMETRY("geometry"),
+    
+    FOLDER("folder"),
 
     VIEW("view");
 
